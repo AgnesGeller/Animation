@@ -1,33 +1,32 @@
 body {
     margin: 0;
     height: 100vh;
-    background-image: url(img2.jpg);
     align-items: cover;
     justify-content: center;
 }
 h1 {
-    color: rgb(247, 129, 70);
+    color: white;
     text-align: center;
     font-family: Snell Roundhand, cursive;
     font-weight: bold;
 }
 
 h2 {
-    color: rgb(236, 206, 150);
+    color:white;
     text-align: center;
     font-family: Snell Roundhand, cursive;
     font-weight: bold;
 }
 
 h3 {
-    color: rgb(231, 228, 221);
+    color: white);
     text-align: center;
     font-family: Snell Roundhand, cursive;
     font-weight: bold;
 }
 
 p {
-    color: rgb(234, 104, 17);
+    color: wite;
     text-align: center;
     font-family: Snell Roundhand, cursive;
     font-weight: bold;
